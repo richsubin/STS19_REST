@@ -1,15 +1,26 @@
 # A. 프로젝트 명
 ### STS19_REST
+@RestController 와 MyBatis 를 사용한 REST게시판
 
 # B. 프로젝트에 사용된 기술소개
 #### Spring
+  - version 5.2.1
+  - Spring MVC Project
+  - @RestController : 데이터를 response
 #### JAVA
-#### 
-
+  - version 1.8
+  - Bean을 활용 (DAO, DTO)
+#### MyBatis
+#### DB
+  - **Oracle**
+  - ER Diagram 제작시 ERMaster 사용
+#### Tomcat
+  + Apache 9.0
+<br><br>
 # C. 프로젝트 셋업에 관한 절차
 ### 협업자, clone
 
-#### 환경
+#### 이클립스 환경
 1. workspace, 그 외 인코딩 UTF-8로 세팅
 2. server 세팅
 3. DB는 Oracle 사용함
