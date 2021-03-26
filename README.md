@@ -33,3 +33,5 @@
 4. clone 할 위치, *워크스페이스* 를 선택한다
 5. **Spring Perspective** 로 돌아온다
   <br>- import > Maven > Existing Maven Project
+
+#### push 전에 최신버전으로 pull 먼저 해올 것
