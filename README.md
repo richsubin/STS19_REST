@@ -13,7 +13,7 @@
 #### MyBatis
 #### DB
   - **Oracle**
-  - ER Diagram 제작시 ERMaster 사용
+  - ER Diagram 제작시 ERMaster 라이브러리 사용
 #### Tomcat
   + Apache 9.0
 <br><br>
